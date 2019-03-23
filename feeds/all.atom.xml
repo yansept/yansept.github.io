@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Salt</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2013-04-18T00:00:00+02:00</updated><entry><title>About Me</title><link href="/about-me.html" rel="alternate"></link><published>2013-04-18T00:00:00+02:00</published><updated>2013-04-18T00:00:00+02:00</updated><author><name>Salt</name></author><id>tag:None,2013-04-18:/about-me.html</id><content type="html">&lt;p&gt;this is my first blog.&lt;/p&gt;</content></entry></feed>
